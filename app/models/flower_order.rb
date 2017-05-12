@@ -1,0 +1,2 @@
+class FlowerOrder < ApplicationRecord
+end
